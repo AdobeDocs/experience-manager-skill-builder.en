@@ -11,7 +11,6 @@ level: Beginner
 version: cloud-service
 type: Event
 kt: 7341
-exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
 ---
 # Dynamic Media- Adobe Experience Manager Asset Series
 
