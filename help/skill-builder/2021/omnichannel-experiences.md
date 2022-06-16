@@ -11,6 +11,7 @@ level: Beginner
 version: cloud-service
 type: Event
 kt: 8935
+exl-id: fef99f2a-8480-4c64-8dbb-a120d203b498
 ---
 # Adobe Experience Manager Sites Basics
 
