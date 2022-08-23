@@ -8,7 +8,7 @@ feature: Adobe Asset Link
 topic: Content Management
 role: User
 level: Beginner
-version: cloud-service
+version: Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278

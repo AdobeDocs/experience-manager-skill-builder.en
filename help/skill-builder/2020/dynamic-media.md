@@ -8,7 +8,7 @@ feature: Dynamic Media Classic
 topic: Content Management
 role: User
 level: Beginner
-version: cloud-service
+version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790

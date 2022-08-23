@@ -8,7 +8,7 @@ feature: Asset Management
 topic: Content Management
 role: User
 level: Beginner
-version: cloud-service
+version: Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e

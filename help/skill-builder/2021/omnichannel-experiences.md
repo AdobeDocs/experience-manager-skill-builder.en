@@ -8,7 +8,7 @@ feature: Authoring
 topic: Content Management
 role: User
 level: Beginner
-version: cloud-service
+version: Cloud Service
 type: Event
 kt: 8935
 exl-id: fef99f2a-8480-4c64-8dbb-a120d203b498
